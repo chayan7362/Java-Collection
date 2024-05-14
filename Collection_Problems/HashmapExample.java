@@ -4,8 +4,6 @@ import java.util.HashMap;
 import java.util.Set;
 
 public class HashmapExample {
-    private static final Integer[] Keys = null;
-
     public static void main(String[] args) {
         HashMap<Integer, String> hm = new HashMap<Integer, String>();
         hm.put(1, "java");
